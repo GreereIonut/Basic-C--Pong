@@ -1,0 +1,15 @@
+D:\projects\C#\Try1\bin\Debug\net7.0\Try1.exe
+D:\projects\C#\Try1\bin\Debug\net7.0\Try1.deps.json
+D:\projects\C#\Try1\bin\Debug\net7.0\Try1.runtimeconfig.json
+D:\projects\C#\Try1\bin\Debug\net7.0\Try1.dll
+D:\projects\C#\Try1\bin\Debug\net7.0\Try1.pdb
+D:\projects\C#\Try1\obj\Debug\net7.0\Try1.csproj.AssemblyReference.cache
+D:\projects\C#\Try1\obj\Debug\net7.0\Try1.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\C#\Try1\obj\Debug\net7.0\Try1.AssemblyInfoInputs.cache
+D:\projects\C#\Try1\obj\Debug\net7.0\Try1.AssemblyInfo.cs
+D:\projects\C#\Try1\obj\Debug\net7.0\Try1.csproj.CoreCompileInputs.cache
+D:\projects\C#\Try1\obj\Debug\net7.0\Try1.dll
+D:\projects\C#\Try1\obj\Debug\net7.0\refint\Try1.dll
+D:\projects\C#\Try1\obj\Debug\net7.0\Try1.pdb
+D:\projects\C#\Try1\obj\Debug\net7.0\Try1.genruntimeconfig.cache
+D:\projects\C#\Try1\obj\Debug\net7.0\ref\Try1.dll
